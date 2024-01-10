@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "ehehe t biết mà =)))";
   gif.src =
-    "file:///C:/Users/Admin/Desktop/long/messengerforu/av.gif";
+    "https://raw.githubusercontent.com/Longh2212/Answerme.github.io/main/av.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
