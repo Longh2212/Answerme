@@ -8,6 +8,10 @@ yesBtn.addEventListener("click", () => {
   question.innerHTML = "ehehe t biết mà =)))";
   gif.src =
     "https://raw.githubusercontent.com/Longh2212/Answerme.github.io/main/av.gif";
+    noBtn.style.left = -50 + "px";
+    noBtn.style.top = -50+ "px";
+    yesBtn.style.left = -50 + "px";
+    yesBtn.style.top = -50+ "px";
 });
 
 noBtn.addEventListener("mouseover", () => {
